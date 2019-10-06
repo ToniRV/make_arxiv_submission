@@ -1,9 +1,11 @@
-#!/bin/bash
+!/bin/bash
 
 # Run this at the root of your project to generate
 # a stripped down main with all input/includes in
-# a single tex file and without comments
-# Generates a zip file for easy upload to Arxiv
+# a single tex file and without comments.
+# Generates a zip file for easy upload to Arxiv.
+# Make sure you mkdir arxiv folder at the root of your project.
+# This is were all the output will be added (images, bib, tex...)
 
 # Change directory to parent path, in order to make this script
 # independent of where we call it from.
