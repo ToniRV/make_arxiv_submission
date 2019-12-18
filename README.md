@@ -1,7 +1,16 @@
 # make_arxiv_submission
 Generates a ready to submit arxiv zip file out of your paper.
 
-Just call `bash generate_arxiv_zip.bash` at the root of your paper folder containing your latex source code.
+Just call `bash generate_arxiv_zip.bash` at the root of your paper folder containing your latex source code:
+
+```bash
+cd $ROOT
+git clone https://github.com/ToniRV/make_arxiv_submission.git
+mkdir arxiv
+./make_arxiv_submission/generate_arxiv_zip.bash
+```
+
+where `$ROOT` is the directory of your latex paper.
 
 ## ToDos:
 
