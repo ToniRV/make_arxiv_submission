@@ -13,7 +13,7 @@ mkdir arxiv
 where `$ROOT` is the directory of your latex paper.
 
 You will see a `arxiv_submission.zip` file appear in your `$ROOT` directory.
-Just upload this file to arxiv!
+Just upload this file to arxiv and you are done :+1:
 
 ## ToDos:
 
