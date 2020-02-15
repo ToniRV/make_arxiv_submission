@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Run this at the root of your project to generate
 # a stripped down main with all input/includes in

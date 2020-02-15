@@ -19,5 +19,11 @@ Just upload this file to arxiv and you are done :+1:
 
 Currently assumes:
 - An `arxiv` folder is already created: just do `mkdir arxiv`.
-- It is an IEEE submission and `IEEE.cls` files are present (easy to remove in script provided).
+- It is an IEEE submission and `IEEE*.cls` files are present (easy to remove in script provided).
 - Expects `main.tex`, `main.bbl` (so the latex source code must be compiled, and not weirdly named).
+
+## FAQ
+
+### My refs don't appear
+
+Make sure you compiled your pdf and that your `main.bbl` contains all entries.
